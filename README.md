@@ -10,7 +10,7 @@ This is a simple web-based door delivery application developed for a client who 
    
 3. **Text files** are used as the database
 
-**Features: **
+**Features:**
 
   🚀 Lightweight and Fast
   
@@ -19,7 +19,7 @@ This is a simple web-based door delivery application developed for a client who 
   🧩 Easy to use
 
 
-**How to run: **
+**How to run:**
 
 Compile all the C files in the terminal
 
